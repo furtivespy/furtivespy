@@ -25,7 +25,6 @@ I’m a backend-focused full-stack developer (I know enough frontend to get myse
 
 
 ## Bio  
-<table><tr><td valign="top" width="50%">
 
 - 🏢 I’m currently working at [Procore](https://github.com/procore)  
   
@@ -38,12 +37,6 @@ I’m a backend-focused full-stack developer (I know enough frontend to get myse
 
 - ⚡ Fun fact: I'm a huge board game fan with a [large collection](https://boardgamegeek.com/collection/user/FurtiveSpy)  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -81,19 +74,10 @@ I’m a backend-focused full-stack developer (I know enough frontend to get myse
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=furtivespy&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="github usage statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=furtivespy&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furtivespy&hide_border=true&layout=compact&count_private=true&theme=radical" align="left" style="width: 100%" />
-
-</td></tr></table>  
 
 <br/>  
-
-  
 
 <br/>  
 
