@@ -74,7 +74,7 @@ I’m a backend-focused full-stack developer (I know enough frontend to get myse
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=furtivespy&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="github usage statistics"/>
+<img src="https://furtivespy-github-readme-stats-l3tz.vercel.app/api?username=furtivespy&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="github usage statistics"/>
 
 
 <br/>  
