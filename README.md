@@ -29,7 +29,7 @@ I’m a backend-focused full-stack developer (I know enough frontend to get myse
 - 🏢 I’m currently working at [Procore](https://github.com/procore)  
   
 
-- 🌱 I’m currently learning more about Kubernetes and Argo Workflows  
+- 🌱 I’m currently learning more about Selfhosting, OSS, Prompt Engineering & Vibe Coding (I can't really complain about something until I try it, right?)
   
 
 - ❓ Ask me about C#, Javascript, web development, and construction software  
